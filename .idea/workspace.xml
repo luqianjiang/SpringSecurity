@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94ab9359-fd23-4621-a52f-b59df4048ba9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/service/MyUserDetailsService.java" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/SecurityDemo1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +17,8 @@
       <file leaf-file-name="SecurityConfigTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="250">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -378,16 +374,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674470949297</updated>
-      <workItem from="1674470951523" duration="9115000" />
+      <workItem from="1674470951523" duration="9183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9115000" />
+    <option name="totallyTimeSpent" value="9183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="868" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -696,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding />
         </state>
       </provider>
