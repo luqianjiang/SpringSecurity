@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94ab9359-fd23-4621-a52f-b59df4048ba9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/entity/Users.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/mapper/UsersMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/login.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/SecurityDemo1.iml" afterPath="$PROJECT_DIR$/SecurityDemo1/SecurityDemo1.iml" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/pom.xml" afterPath="$PROJECT_DIR$/SecurityDemo1/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/SecurityDemo1Application.java" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/SecurityDemo1Application.java" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/service/MyUserDetailsService.java" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/service/MyUserDetailsService.java" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/resources/application.properties" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/target/classes/application.properties" afterPath="$PROJECT_DIR$/SecurityDemo1/target/classes/application.properties" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/SecurityDemo1Application.class" afterPath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/SecurityDemo1Application.class" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/service/MyUserDetailsService.class" afterPath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/service/MyUserDetailsService.class" />
-    </list>
+    <list default="true" id="94ab9359-fd23-4621-a52f-b59df4048ba9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/SecurityDemo1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -110,8 +79,8 @@
       <file leaf-file-name="UsernamePasswordAuthenticationFilter.java" pinned="false" current-in-tab="true">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="73" column="9" lean-forward="true" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+            <state relative-caret-position="275">
+              <caret line="72" column="83" lean-forward="true" selection-start-line="72" selection-start-column="83" selection-end-line="72" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -496,7 +465,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15042000" />
+    <option name="totallyTimeSpent" value="15103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="868" extended-state="6" />
@@ -909,8 +878,8 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="73" column="9" lean-forward="true" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        <state relative-caret-position="275">
+          <caret line="72" column="83" lean-forward="true" selection-start-line="72" selection-start-column="83" selection-end-line="72" selection-end-column="83" />
           <folding />
         </state>
       </provider>
