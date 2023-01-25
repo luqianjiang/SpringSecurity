@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94ab9359-fd23-4621-a52f-b59df4048ba9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/unauth.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/success.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/SecurityDemo1Application.java" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/SecurityDemo1Application.java" />
       <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java" />
-      <change beforePath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/config/SecurityConfigTest.class" afterPath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/config/SecurityConfigTest.class" />
+      <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java" />
+      <change beforePath="$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/login.html" afterPath="$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/login.html" />
+      <change beforePath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/SecurityDemo1Application.class" afterPath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/SecurityDemo1Application.class" />
+      <change beforePath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/config/SecurityConfigTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/controller/TestController.class" afterPath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/controller/TestController.class" />
       <change beforePath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/service/MyUserDetailsService.class" afterPath="$PROJECT_DIR$/SecurityDemo1/target/classes/com/atguigu/securitydemo1/service/MyUserDetailsService.class" />
     </list>
     <ignored path="$PROJECT_DIR$/SecurityDemo1/target/" />
@@ -18,15 +23,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SecurityConfigTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SecurityConfigTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="1050">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="68" selection-end-column="59" />
               <folding>
-                <element signature="e#1105#1106#0" expanded="true" />
-                <element signature="e#1155#1156#0" expanded="true" />
+                <element signature="e#1739#1740#0" expanded="true" />
+                <element signature="e#1789#1790#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="success.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/success.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,21 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="15" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthenticationManagerBuilder.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE.jar!/org/springframework/security/config/annotation/authentication/builders/AuthenticationManagerBuilder.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
-              <caret line="26" column="67" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="67" />
+            <state relative-caret-position="275">
+              <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -74,8 +79,8 @@
       <file leaf-file-name="MyUserDetailsService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/service/MyUserDetailsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="35" column="84" lean-forward="false" selection-start-line="35" selection-start-column="84" selection-end-line="35" selection-end-column="84" />
+            <state relative-caret-position="366">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,8 +101,8 @@
       <file leaf-file-name="SecurityDemo1Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/SecurityDemo1Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="150">
+              <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -107,12 +112,12 @@
         <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
               <folding>
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,12 +150,12 @@
         <option value="$PROJECT_DIR$/SecurityDemo1/pom.xml" />
         <option value="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/entity/Users.java" />
         <option value="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/mapper/UsersMapper.java" />
-        <option value="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/SecurityDemo1Application.java" />
         <option value="$PROJECT_DIR$/SecurityDemo1/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/login.html" />
+        <option value="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/SecurityDemo1Application.java" />
         <option value="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java" />
         <option value="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/service/MyUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java" />
+        <option value="$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/login.html" />
       </list>
     </option>
   </component>
@@ -318,6 +323,7 @@
       <recent name="com.atguigu.securitydemo1.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace_idea\SpringSecurity\SecurityDemo1\src\main\resources\static" />
       <recent name="E:\workspace_idea\SpringSecurity\SecurityDemo1\src\main\resources" />
     </key>
   </component>
@@ -458,11 +464,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17444000" />
+    <option name="totallyTimeSpent" value="23505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="868" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2802721" sideWeight="0.5025707" order="-1" side_tool="true" content_ui="tabs" />
@@ -480,7 +485,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -576,23 +581,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/SecurityDemo1Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -601,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="671">
           <caret line="355" column="27" lean-forward="false" selection-start-line="355" selection-start-column="27" selection-end-line="355" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,7 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="667" column="27" lean-forward="false" selection-start-line="667" selection-start-column="27" selection-end-line="667" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="25" column="55" lean-forward="false" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,21 +657,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/unauth.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="32" column="66" lean-forward="false" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
           <folding>
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1739#1740#0" expanded="true" />
+            <element signature="e#1789#1790#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -760,7 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,7 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="21" column="11" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -837,7 +821,7 @@
         <state relative-caret-position="155">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -861,11 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1027#1028#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -891,27 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="671">
@@ -919,26 +877,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="73" column="9" lean-forward="true" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="15" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -955,7 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="667" column="27" lean-forward="false" selection-start-line="667" selection-start-column="27" selection-end-line="667" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,36 +904,88 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="25" column="55" lean-forward="false" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/SecurityDemo1Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state relative-caret-position="150">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/unauth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/service/MyUserDetailsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="35" column="84" lean-forward="false" selection-start-line="35" selection-start-column="84" selection-end-line="35" selection-end-column="84" />
+        <state relative-caret-position="366">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/java/com/atguigu/securitydemo1/config/SecurityConfigTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="1050">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="68" selection-end-column="59" />
           <folding>
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1739#1740#0" expanded="true" />
+            <element signature="e#1789#1790#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecurityDemo1/src/main/resources/static/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
